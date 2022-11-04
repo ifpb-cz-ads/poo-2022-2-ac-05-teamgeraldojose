@@ -18,6 +18,8 @@ Campeonato
 - dataJogo ()
 - vitorias ()
 - derrotas ()
+- empatar ()
+- pontuacao ()
 
 *Questão 07* - O problema está no espaçamento entre as palavras no nome da classe. A linguagem não entende espaços no nome da classe.
 
